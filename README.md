@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :telescope: I’m working as a Software Engineer and do frontend and backend for building web applications.
+- :telescope: I am a Software Engineer doing frontend and backend for web applications.
 
-- :seedling: Exploring Cyber-Security.
+- :seedling: Passionate about Cyber-Security.
 
 - :zap: In my free time, I play CTF's (Capture The Flag).
 
