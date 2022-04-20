@@ -6,7 +6,7 @@
 
 - :zap: In my free time, I play CTF's (Capture The Flag).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nigel-itotia/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nigel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nigel-itotia/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
