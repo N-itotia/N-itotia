@@ -13,6 +13,6 @@ Passionate about **AI/ML** and **Cybersecurity**.
 ---
 
 ## Tech & Tools
-- **Languages:** Python, Kotlin, Swift, JavaScript *(edit as needed)*
-- **Tools:** Git, Docker *(edit as needed)*
+- **Languages:** Python, Kotlin, Swift, JavaScript 
+- **Tools:** Git, Docker 
 - **Interests:** Machine Learning, Mobile Apps, Security
