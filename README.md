@@ -12,15 +12,6 @@ Passionate about **AI/ML** and **Cybersecurity**.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-itotia&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-itotia&layout=compact&theme=transparent" height="160" />
-</p>
-
----
-
 ## Tech & Tools
 - **Languages:** Python, Kotlin, Swift, JavaScript *(edit as needed)*
 - **Tools:** Git, Docker *(edit as needed)*
